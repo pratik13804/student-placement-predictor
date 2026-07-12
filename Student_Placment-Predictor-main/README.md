@@ -5,8 +5,8 @@ An end-to-end Machine Learning web application designed to evaluate a student's 
 ---
 
 ## 👤 Student Profile
-* **Name:** Anish Bhattacharjee
-* **Registration Number:** 23BAI10736
+* **Name:** Pratik Pandey
+* **Registration Number:** 23BAI10729
 * **Course:** B.Tech Computer Science and Engineering
 * **Institution:** VIT Bhopal University
 
@@ -14,8 +14,7 @@ An end-to-end Machine Learning web application designed to evaluate a student's 
 
 ## 🔗 Live Application Gateways
 * **Production Live URL:** https://student-placment-predictor.onrender.com
-* **Source Repository:** https://github.com/anish-hlv/Student_Placment-Predictor.git
-
+* **Source Repository:** https://github.com/pratik13804/student-placement-predictor/tree/main
 ---
 
 ## 🛠️ System Architecture & Frameworks
